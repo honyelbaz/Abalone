@@ -1,0 +1,13 @@
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.exe
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.deps.json
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.runtimeconfig.json
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.runtimeconfig.dev.json
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.dll
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\bin\Debug\netcoreapp3.1\abaloneConsole.pdb
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.csprojAssemblyReference.cache
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.csproj.CoreCompileInputs.cache
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.AssemblyInfoInputs.cache
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.AssemblyInfo.cs
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.dll
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.pdb
+C:\Users\Hony\source\repos\abaloneConsole\abaloneConsole\obj\Debug\netcoreapp3.1\abaloneConsole.genruntimeconfig.cache
