@@ -1,0 +1,10 @@
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\bin\Debug\AbaloneGameForm.exe.config
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\bin\Debug\AbaloneGameForm.exe
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\bin\Debug\AbaloneGameForm.pdb
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.GameForm.resources
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.Properties.Resources.resources
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.csproj.GenerateResource.cache
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.csproj.CoreCompileInputs.cache
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.exe
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.pdb
+C:\Users\Hony\source\repos\AbaloneGameForm\AbaloneGameForm\obj\Debug\AbaloneGameForm.csprojAssemblyReference.cache
